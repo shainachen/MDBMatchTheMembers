@@ -19,8 +19,4 @@ The game screen of the app where the player has not yet selected a name. The tim
 
 ![Selecting Name](ss3.png?raw=true "Optional Title")
 
-The player has selected the incorrect name, which results in the button for the selected name highlighting in red for one second before moving on to the next round.
-
-![Selecting Name](ss4.png?raw=true "Optional Title")
-
 The stats page displays the longest streak and the last three round results, which include the selected names and color highlights to denote if the selections were correct or incorrect.
