@@ -11,8 +11,16 @@ There is a statistics page that displays relevant game stats, including the long
 
 ![Selecting Name](ss1.png?raw=true "Optional Title")
 
+The home screen of the app. 
+
 ![Selecting Name](ss2.png?raw=true "Optional Title")
+
+The game screen of the app where the player has not yet selected a name. The timer and score are displayed at the top and four names are displayed below the image.
 
 ![Selecting Name](ss3.png?raw=true "Optional Title")
 
+The player has selected the incorrect name, which results in the button for the selected name highlighting in red for one second before moving on to the next round.
+
 ![Selecting Name](ss4.png?raw=true "Optional Title")
+
+The stats page displays the longest streak and the last three round results, which include the selected names and color highlights to denote if the selections were correct or incorrect.
