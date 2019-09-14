@@ -7,6 +7,12 @@ name.
 Selecting the correct name increases the score by one and moves on to the next image. Selecting the incorrect name or not
 selecting any name within the five seconds results in moving on to the next image with no change to the score.
 
+There is a statistics page that displays relevant game stats, including the longest streak of correct guesses and the results of the last three rounds.
+
+![Selecting Name](ss1.png?raw=true "Optional Title")
+
 ![Selecting Name](ss2.png?raw=true "Optional Title")
 
-There is a statistics page that displays relevant game stats, including the longest streak of correct guesses and the results of the last three rounds.
+![Selecting Name](ss3.png?raw=true "Optional Title")
+
+![Selecting Name](ss4.png?raw=true "Optional Title")
